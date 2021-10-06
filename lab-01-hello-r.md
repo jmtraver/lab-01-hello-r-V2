@@ -105,6 +105,9 @@ with `plot-star` and `cor-star` to provide spaces to place the code for
 plotting and calculating the correlation coefficient. To finish, clean
 up the narrative by removing these instructions.
 
+This is not the answer to exercise 3, this is just me testing the commit
+and push functions
+
 I’m some filler text, you should replace me with more meaningful text…
 
 ### Exercise 4
